@@ -1,7 +1,6 @@
-
 # 📖 Enciclopédia Web3
 
-## 🇧🇷 Português TESTE
+## 🇧🇷 Português TESTEZAO
 
 ### Ethereum
 
